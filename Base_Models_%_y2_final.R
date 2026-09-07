@@ -7,7 +7,6 @@ library(modelsummary)
 
 # Чтение файлов
 
-y1 <- read.csv('https://raw.githubusercontent.com/ShapovalovaMariia/coursework3/refs/heads/main/y1_R.csv')
 y2 <- read.csv('https://raw.githubusercontent.com/ShapovalovaMariia/coursework3/refs/heads/main/y2_R.csv')
 y3 <- read.csv('https://raw.githubusercontent.com/ShapovalovaMariia/coursework3/refs/heads/main/y3_R.csv')
 
